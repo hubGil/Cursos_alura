@@ -2,8 +2,6 @@
 
 namespace Alura\Solid\Model;
 
-
-
 use DomainException;
 
 class Curso implements Pontuavel, Assistivel

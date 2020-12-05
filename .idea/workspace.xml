@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e0ade57c-ab1e-44a2-9133-1a54f205c526" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Solid_com_PHP/src/Model/Assistivel.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Solid_com_PHP/src/Model/AluraMais.php" beforeDir="false" afterPath="$PROJECT_DIR$/Solid_com_PHP/src/Model/AluraMais.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Solid_com_PHP/src/Model/Curso.php" beforeDir="false" afterPath="$PROJECT_DIR$/Solid_com_PHP/src/Model/Curso.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Solid_com_PHP/src/Model/Pontuavel.php" beforeDir="false" afterPath="$PROJECT_DIR$/Solid_com_PHP/src/Model/Pontuavel.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Solid_com_PHP/src/Service/Assistidor.php" beforeDir="false" afterPath="$PROJECT_DIR$/Solid_com_PHP/src/Service/Assistidor.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +65,7 @@
       <updated>1607130637844</updated>
       <workItem from="1607130641337" duration="3023000" />
       <workItem from="1607133677974" duration="210000" />
-      <workItem from="1607133898647" duration="5126000" />
+      <workItem from="1607133898647" duration="5484000" />
     </task>
     <servers />
   </component>
