@@ -1,0 +1,8 @@
+{
+  "name": "GilmarSantos/Solid_PHP",
+  "autoload": {
+    "psr-4": {
+      "Alura\\Solid\\": "src/"
+    }
+  }
+}
