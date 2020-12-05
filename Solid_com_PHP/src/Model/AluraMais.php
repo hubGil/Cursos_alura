@@ -4,7 +4,7 @@
 namespace Alura\Solid\Model;
 
 
-class AluraMais extends Video
+class AluraMais extends Video implements Pontuavel
 {
     private string $categoria;
 
@@ -17,5 +17,10 @@ class AluraMais extends Video
     public function recuperaUrl():string
     {
         return str_replace(' ', '-', strtolower($this->categoria) );
+    }
+
+    public function recuperarPontuacao(): int
+    {
+        return $this->minutosDeDuracao() * 2;
     }
 }

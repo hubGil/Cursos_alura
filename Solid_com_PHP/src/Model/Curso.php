@@ -6,7 +6,7 @@ namespace Alura\Solid\Model;
 
 use DomainException;
 
-class Curso
+class Curso implements Pontuavel
 {
     private string $nome;
     private array $videos;
@@ -35,5 +35,10 @@ class Curso
     public function recuperarVideo():array
     {
         return $this->videos;
+    }
+
+    public function recuperarPontuacao(): int
+    {
+        return 100;
     }
 }
